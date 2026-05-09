@@ -23,7 +23,7 @@ repository               : "ddcruz13/faculty-website-demo"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-photo.jpg"
+  avatar           : "profile.png"
   name             : "Cibin Joseph"
   pronouns         : # example: "she/her"  
   bio              : "Aerospace Engineering"
