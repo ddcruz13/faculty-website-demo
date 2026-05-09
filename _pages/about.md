@@ -11,17 +11,14 @@ Dr. Cibin Joseph is a researcher in computational fluid dynamics and aerospace e
 
 ## Research Interests
 
-### High-Fidelity Computational Fluid Dynamics
-Development and application of high-fidelity computational frameworks for compressible, transitional, and turbulent aerodynamic flows using URANS-based simulations and advanced numerical methods.
-
-### Aerodynamic Optimization and Rotorcraft Aerodynamics
-Multi-objective aerodynamic optimization of rotor blade airfoils and rotary-wing configurations with emphasis on hover efficiency, forward-flight performance, dynamic stall mitigation, and unsteady flow physics.
-
-### Low-Reynolds-Number and Unsteady Aerodynamics
-Investigation of low-Reynolds-number flow phenomena, dynamic stall behavior, transitional aerodynamics, and unsteady aerodynamic loads relevant to rotorcraft, UAVs, and biologically inspired flight systems.
-
-### Scientific Computing and Numerical Methods
-Scientific computing methodologies for aerospace applications, including high-order numerical schemes, aerodynamic modeling, optimization frameworks, and computational analysis of complex flow systems.
+- High-fidelity computational fluid dynamics (CFD)
+- Rotorcraft aerodynamics and rotary-wing flows
+- Multi-objective aerodynamic optimization
+- Compressible and transitional flow physics
+- Low-Reynolds-number and unsteady aerodynamics
+- Dynamic stall and rotor blade airfoil design
+- Numerical methods and scientific computing
+- Aerospace flow simulations and aerodynamic modeling
 
 ## Research Visualization
 
