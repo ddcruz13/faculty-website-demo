@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Cibin Joseph is a researcher in computational fluid dynamics and aerospace engineering specializing in high-fidelity simulations, aerodynamic optimization, and low-Reynolds-number transitional and turbulent flows. His research focuses on rotorcraft aerodynamics, compressible flow physics, numerical methods, and scientific computing for aerospace applications. He completed postdoctoral research at Brigham Young University and the University of California, Davis.
+Research in computational fluid dynamics, aerodynamic optimization, and rotorcraft aerodynamics with applications to high-fidelity aerospace flow simulations.
 
 ## Research Interests
 
