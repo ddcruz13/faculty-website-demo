@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Research in computational fluid dynamics, aerodynamic optimization, and rotorcraft aerodynamics with applications to high-fidelity aerospace flow simulations.
+Research in computational fluid dynamics, aerodynamic optimization, and rotorcraft aerodynamics with applications to high-fidelity aerospace flow simulations
 
 ## Research Interests
 
