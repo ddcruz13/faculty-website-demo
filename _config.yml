@@ -361,4 +361,4 @@ compress_html:
     envs: development
 
 custom_css:
-  - /assets/css/custom.css
+  - /assets/css/custom
