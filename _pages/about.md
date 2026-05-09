@@ -2,7 +2,7 @@
 permalink: /
 title: "About me"
 author_profile: true
-author: "Name Name"
+author: "Cibin Joseph"
 redirect_from: 
   - /about/
   - /about.html
