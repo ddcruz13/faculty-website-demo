@@ -22,3 +22,9 @@ Investigation of low-Reynolds-number flow phenomena, dynamic stall behavior, tra
 
 ### Scientific Computing and Numerical Methods
 Scientific computing methodologies for aerospace applications, including high-order numerical schemes, aerodynamic modeling, optimization frameworks, and computational analysis of complex flow systems.
+
+## Research Visualization
+
+![Rotor CFD Simulation](/faculty-website-demo/images/research/rotor-cfd.jpg)
+
+*Rotor-disk sectional drag distributions computed using high-fidelity aerodynamic simulations for optimized rotor blade airfoils under forward-flight conditions.*
